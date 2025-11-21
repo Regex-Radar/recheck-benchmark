@@ -16,8 +16,7 @@ The benchmark is still incomplete not taking into account of startup times, warm
 
 Some variations to benchmark:
 
-- worker pools with multiple workers, measure the memory/process spawning overhead as additional cost
-- try the `wasm` backend inside the `thread-worker`
+- ~worker pools with multiple workers~, measure the memory/process spawning overhead as additional cost
 - write some benchmarking suites, with setup/teardowns to measure:
     - the overhead of spawning processes
     - the overhead of the IPC

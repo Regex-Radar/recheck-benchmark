@@ -24,7 +24,7 @@
         "typecheck": "tsc --noEmit -p ."
     },
     "dependencies": {
-        "@regex-radar/recheck-esm": "^4.5.2"
+        "@regex-radar/recheck-esm": "^4.5.4"
     },
     "optionalDependencies": {
         "@regex-radar/recheck-scalajs": "^4.5.0",
